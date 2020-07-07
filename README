@@ -1,0 +1,12 @@
+3 version letter_count.
+
+(1) In C
+Compile with Makefile: make
+Execute with 1 argument: file (e.g. test.txt)
+Remove compiled files: make clean
+
+(2) In Python3
+Execute with 'python' command and with 1 argument: file
+
+(3) In bash
+Execute with 'bash' command and with 1 argument: file
